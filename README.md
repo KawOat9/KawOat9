@@ -5,10 +5,10 @@
     </td>
     <td valign="middle">
       <h1>
-        Hi, I'm 𝗞𝗮𝘄𝗢𝗮𝘁 
+        Hi, I'm KawOat 
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Twitter_Verified_Badge.svg/640px-Twitter_Verified_Badge.svg.png" width="30" style="vertical-align: bottom;">
       </h1>
-      <b><font size="10" color="#dba550">Welcome Back! 👋</font></b>
+      <b><font size="5" color="#dba550">Welcome Back! 👋</font></b>
     </td>
   </tr>
 </table>
