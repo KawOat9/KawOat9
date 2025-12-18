@@ -1,7 +1,7 @@
 <table border="0">
   <tr>
     <td width="120px" align="center">
-      <img src="https://raw.githubusercontent.com/KawOat9/Script-Rewrite/main/Profile.png?raw=true" width="100px" style="border-radius: 50%;">
+      <img src="https://raw.githubusercontent.com/KawOat9/icons/main/Gif/cat_hrv_excellent.gif?raw=true" width="100px" style="border-radius: 50%;">
     </td>
     <td valign="middle">
       <h1>
