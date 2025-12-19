@@ -6,7 +6,7 @@
     <td valign="middle">
       <h1>
         Hi, KawOat 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Twitter_Verified_Badge.svg/640px-Twitter_Verified_Badge.svg.png" width="30" style="vertical-align: bottom;">
+        <img src="https://raw.githubusercontent.com/KawOat9/icons/main/Gif/twitter-verified-check-mark.gif" width="30" style="vertical-align: bottom;">
       </h1>
       <b><font size="5" color="#dba550">Welcome Back! 👋</font></b>
     </td>
