@@ -1,3 +1,52 @@
+# Mobile First 
+
+<div align="center">
+  <a href="https://github.com/KawOat9">
+    <img src="https://raw.githubusercontent.com/KawOat9/icons/main/Gif/cat_hrv_excellent.gif?raw=true" width="100px" style="border-radius: 50%; border: 3px solid #dba550; box-shadow: 0 0 15px rgba(219, 165, 80, 0.2);">
+  </a>
+  <br/>
+  <h1>
+    Hi, KawOat 
+    <img src="https://raw.githubusercontent.com/KawOat9/icons/main/Gif/twitter-verified-check-mark.gif" width="28" style="vertical-align: middle;">
+  </h1>
+  <b><font size="4" color="#dba550">Welcome Back! 👋</font></b>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=DBA550&center=true&vCenter=true&width=320&lines=Advanced+Script+Converter;Premium+Unlock+Scripts;Shadowrocket+%7C+Quantumult+X" alt="Typing SVG" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/KawOat9">
+    <img width="95%" src="https://github-readme-stats.vercel.app/api?username=KawOat9&show_icons=true&theme=transparent&hide_border=true&title_color=dba550&text_color=adadad&icon_color=dba550" />
+  </a>
+  <br/>
+  <a href="https://github.com/KawOat9">
+    <img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KawOat9&layout=compact&theme=transparent&hide_border=true&title_color=dba550&text_color=adadad&icon_color=dba550" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Shadowrocket-2C3E50?style=flat-square&logo=rocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white" />
+</div>
+
+<br/>
+<hr style="border: 0.5px solid #333;">
+
+<div align="center">
+  <sub>✨ Built with ❤️ by <a href="https://github.com/KawOat9" style="text-decoration: none; color: #dba550;"><b>KawOat.DEV</b></a> ✨</sub>
+  <br/>
+  <img src="https://profile-counter.glitch.me/KawOat9/count.svg" alt="visitor count">
+</div>
+
+
+# Desktop 
 <table border="0" align="center">
   <tr>
     <td width="140px" align="center" valign="middle">
