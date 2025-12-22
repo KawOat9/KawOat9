@@ -1,4 +1,3 @@
-# Mobile First 
 
 <div align="center">
   <a href="https://github.com/KawOat9">
@@ -41,11 +40,9 @@
 
 <div align="center">
   <sub>✨ Built with ❤️ by <a href="https://github.com/KawOat9" style="text-decoration: none; color: #dba550;"><b>KawOat.DEV</b></a> ✨</sub>
-  <br/>
-  <img src="https://profile-counter.glitch.me/KawOat9/count.svg" alt="visitor count">
 </div>
 
-
+<!-- ปิดการมองเห็น
 # Desktop 
 <table border="0" align="center">
   <tr>
@@ -96,7 +93,6 @@
   <img src="https://profile-counter.glitch.me/KawOat9/count.svg" alt="visitor count">
 </div>
 
-<!-- ปิดการมองเห็น
 #1
 <table border="0">
   <tr>
