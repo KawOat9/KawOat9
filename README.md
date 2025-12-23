@@ -15,6 +15,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=DBA550&center=true&vCenter=true&width=320&lines=Advanced+Script+Converter;Premium+Unlock+Scripts;Shadowrocket+%7C+Quantumult+X" alt="Typing SVG" />
 </div>
 
+<!-- ปิดการมองเห็น
 <br/>
 
 <div align="center">
@@ -28,6 +29,8 @@
 </div>
 
 <br/>
+
+สิ้นสุดปิดการมองเห็น -->
 
 <div align="center">
   <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
