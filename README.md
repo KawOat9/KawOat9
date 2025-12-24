@@ -33,9 +33,12 @@
 สิ้นสุดปิดการมองเห็น -->
 
 <div align="center">
+  <a href="https://github.com/KawOat9/Scripts">
   <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <a href="https://github.com/KawOat9/Scripts/tree/main/Shadowrocket">
   <img src="https://img.shields.io/badge/Shadowrocket-2C3E50?style=flat-square&logo=rocket&logoColor=white" />
-  <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white" />
+  <a href="https://github.com/KawOat9/Scripts/tree/main/Loon">
+  <img src="https://img.shields.io/badge/🎈Loon-121212?style=flat-square&logo=loon&logoColor=white" />
 </div>
 
 <br/>
