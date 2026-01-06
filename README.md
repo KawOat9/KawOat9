@@ -38,7 +38,7 @@
   <a href="https://github.com/KawOat9/Scripts/tree/main/Shadowrocket">
   <img src="https://img.shields.io/badge/Shadowrocket-2C3E50?style=flat-square&logo=rocket&logoColor=white" />
   <a href="https://github.com/KawOat9/Scripts/tree/main/Loon">
-  <img src="https://img.shields.io/badge/🎈Loon-121212?style=flat-square&logo=loon&logoColor=white" />
+  <img src="https://img.shields.io/badge/🎈Loon-8D5AFE?style=flat-square&logo=loon&logoColor=white" />
 </div>
 
 <br/>
