@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<type0>
+    <type0a name="🎨 First Accent" color="#505050">					<!-- Accent principale -->
+		<preset>#908dff</preset>
+		<preset>#ffd600</preset>
+		<preset>#ffc107</preset>
+		<preset>#0097ff</preset>
+		<preset>#4285f4</preset>
+		<preset>#90A4AE</preset>
+		<preset>#78909C</preset>
+		<preset>#617D8B</preset>
+		<preset>#2E61F5</preset>
+		<preset>#Ef5350</preset>
+		<preset>#ff404c</preset>
+		<preset>#FBA723</preset>
+		<preset>#0097A7</preset>
+		<preset>#C51162</preset>
+		<preset>#e70ca5</preset>
+		<preset>#bdbdbd</preset>
+		<preset>#9E9E9E</preset>
+		<preset>#2E7D32</preset>
+		<preset>#3ddc84</preset>
+		<preset>#80ff00</preset>
+		<preset>#1cff12</preset>
+		<preset>#7DB695</preset>
+		<preset>#304FFE</preset>
+		<preset>#9dd200</preset>
+		<preset>#ff7514</preset>
+		<preset>#E0610E</preset>
+		<preset>#f86734</preset>
+		<preset>#A1B6ED</preset>
+		<preset>#F39DCC</preset>
+		<preset>#5e97f6</preset>
+		<preset>#880e4f</preset>
+		<preset>#6200EA</preset>
+		<preset>#d401e9</preset>
+		<preset>#ff0000</preset>
+		<preset>#d50000</preset>
+		<preset>#bb0000</preset>
+		<preset>#cc0000</preset>
+		<preset>#a92c2c</preset>
+		<preset>#2962FF</preset>
+		<preset>#ff2837</preset>
+		<preset>#B37AA3</preset>
+		<preset>#00897b</preset>
+		<preset>#00695c</preset>
+		<preset>#26a69a</preset>
+		<preset>#7268fc</preset>
+		
+		<resource name="accent_material_dark" />
+		<resource name="ripple_material_dark" alpha="0.5" />
+		<resource name="keyguard_avatar_frame_pressed_color" alpha="0.3" />
+		<resource name="highlighted_text_dark" alpha="0.5" />
+		<resource name="holo_button_normal" alpha="0.2" />
+		<resource name="holo_blue_bright" />
+    </type0a>
+    <type0b name="🎨 Second Accent" color="#505050">							<!-- Solo per Bordo Sfumato Dialoghi e Popup -->
+		<preset>#908dff</preset>
+		<preset>#ffd600</preset>
+		<preset>#ffc107</preset>
+		<preset>#0097ff</preset>
+		<preset>#4285f4</preset>
+		<preset>#90A4AE</preset>
+		<preset>#78909C</preset>
+		<preset>#617D8B</preset>
+		<preset>#2E61F5</preset>
+		<preset>#Ef5350</preset>
+		<preset>#ff404c</preset>
+		<preset>#FBA723</preset>
+		<preset>#0097A7</preset>
+		<preset>#C51162</preset>
+		<preset>#e70ca5</preset>
+		<preset>#bdbdbd</preset>
+		<preset>#9E9E9E</preset>
+		<preset>#2E7D32</preset>
+		<preset>#3ddc84</preset>
+		<preset>#80ff00</preset>
+		<preset>#1cff12</preset>
+		<preset>#7DB695</preset>
+		<preset>#304FFE</preset>
+		<preset>#9dd200</preset>
+		<preset>#ff7514</preset>
+		<preset>#E0610E</preset>
+		<preset>#f86734</preset>
+		<preset>#A1B6ED</preset>
+		<preset>#F39DCC</preset>
+		<preset>#5e97f6</preset>
+		<preset>#880e4f</preset>
+		<preset>#6200EA</preset>
+		<preset>#d401e9</preset>
+		<preset>#ff0000</preset>
+		<preset>#d50000</preset>
+		<preset>#bb0000</preset>
+		<preset>#cc0000</preset>
+		<preset>#a92c2c</preset>
+		<preset>#2962FF</preset>
+		<preset>#ff2837</preset>
+		<preset>#B37AA3</preset>
+		<preset>#00897b</preset>
+		<preset>#00695c</preset>
+		<preset>#26a69a</preset>
+		<preset>#7268fc</preset>
+		
+		<resource name="accent_material_light" />
+		<resource name="ripple_material_light" alpha="0.5" />
+		<resource name="holo_red_light" alpha="0.7" />
+		<resource name="highlighted_text_light" alpha="0.5" />
+		<resource name="holo_blue_light" />
+    </type0b>
+</type0>
