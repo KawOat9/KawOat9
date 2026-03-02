@@ -1,492 +1,419 @@
 name: 🌺 Macchiato
-basedOn: classic
+shortname: ctp_macchiato_ios
+basedOn: night
 dark: true
-intro:
-  statusBar: white
-  primaryText: cad3f5
-  accentText: 709963
-  disabledText: 575b55
-  startButton: a6da95
-  dot: b8c0e0
-passcode:
-  bg:
-    top: 5b6078
-    bottom: 24273a
-  button: 363a4f
-root:
-  statusBar: white
-  tabBar:
-    background: 363a4f
-    separator: 181926
-    icon: 8087a2
-    selectedIcon: 709963
-    text: 8087a2
-    selectedText: 709963
-    badgeBackground: ed8796
-    badgeStroke: ed8796
-    badgeText: 181926
-  navBar:
-    button: 709963
-    disabledButton: 575b55
-    primaryText: cad3f5
-    secondaryText: b8c0e0
-    control: b8c0e0
-    accentText: 709963
-    background: 363a4f
-    opaqueBackground: 363a4f
-    separator: 181926
-    badgeFill: ed8796
-    badgeStroke: ed8796
-    badgeText: 181926
-    segmentedBg: 24273a
-    segmentedFg: 363a4f
-    segmentedText: cad3f5
-    segmentedDivider: 7fcad3f5
-  searchBar:
-    background: 363a4f
-    accent: 709963
-    inputFill: 24273a
-    inputText: cad3f5
-    inputPlaceholderText: b8c0e0
-    inputIcon: b8c0e0
-    inputClearButton: b8c0e0
-    separator: 24273a
-  keyboard: dark
-list:
-  blocksBg: 24273a
-  plainBg: 24273a
-  primaryText: cad3f5
-  secondaryText: 7fcad3f5
-  disabledText: 7fcad3f5
-  accent: 709963
-  highlighted: a6da95
-  destructive: ed8796
-  placeholderText: 7fcad3f5
-  itemBlocksBg: 363a4f
-  itemHighlightedBg: 363a4f
-  blocksSeparator: 181926
-  plainSeparator: 181926
-  disclosureArrow: 7fcad3f5
-  sectionHeaderText: 5b6078
-  freeText: 5b6078
-  freeTextError: ed8796
-  freeTextSuccess: a6da95
-  freeMonoIcon: 5b6078
-  switch:
-    frame: 7fcad3f5
-    handle: 181926
-    content: a6da95
-    positive: a6da95
-    negative: ed8796
-  disclosureActions:
-    neutral1:
-      bg: a6da95
-      fg: ffffff
-    neutral2:
-      bg: f5a97f
-      fg: ffffff
-    destructive:
-      bg: ed8796
-      fg: ffffff
-    constructive:
-      bg: a6da95
-      fg: ffffff
-    accent:
-      bg: 709963
-      fg: ffffff
-    warning:
-      bg: f5a97f
-      fg: ffffff
-    inactive:
-      bg: 24273a
-      fg: cad3f5
-  check:
-    bg: 709963
-    stroke: 7fcad3f5
-    fg: 181926
-  controlSecondary: 7fcad3f5
-  freeInputField:
-    bg: 363a4f
-    stroke: 363a4f
-    placeholder: 7fcad3f5
-    primary: cad3f5
-    control: 7fcad3f5
-  mediaPlaceholder: 24273a
-  scrollIndicator: 7fcad3f5
-  pageIndicatorInactive: 66cad3f5
-  inputClearButton: b8c0e0
-  itemBarChart:
-    color1: 709963
-    color2: 7fcad3f5
-    color3: 24273a
-  itemInputField:
-    bg: 1e2030
-    stroke: 1e2030
-    placeholder: 8087a2
-    primary: cad3f5
-    control: 8087a2
-chatList:
-  bg: 24273a
-  itemSeparator: 181926
-  itemBg: 24273a
-  pinnedItemBg: 363a4f
-  itemHighlightedBg: 363a4f
-  pinnedItemHighlightedBg: 363a4f
-  itemSelectedBg: 363a4f
-  title: cad3f5
-  secretTitle: a6da95
-  dateText: 7fcad3f5
-  authorName: cad3f5
-  messageText: 7fcad3f5
-  messageHighlightedText: cad3f5
-  messageDraftText: ed8796
-  checkmark: a6da95
-  pendingIndicator: 66cad3f5
-  failedFill: ed8796
-  failedFg: cad3f5
-  muteIcon: 66cad3f5
-  unreadBadgeActiveBg: 709963
-  unreadBadgeActiveText: 181926
-  unreadBadgeInactiveBg: 66cad3f5
-  unreadBadgeInactiveText: 24273a
-  reactionBadgeActiveBg: ed8796
-  pinnedBadge: 7fcad3f5
-  pinnedSearchBar: 24273a
-  regularSearchBar: 363a4f
-  sectionHeaderBg: 363a4f
-  sectionHeaderText: 7fcad3f5
-  verifiedIconBg: a6da95
-  verifiedIconFg: cad3f5
-  secretIcon: a6da95
-  pinnedArchiveAvatar:
-    background:
-      top: 8aadf4
-      bottom: 8aadf4
-    foreground: cad3f5
-  unpinnedArchiveAvatar:
-    background:
-      top: 5b6078
-      bottom: 5b6078
-    foreground: 24273a
-  onlineDot: a6da95
-  storyUnseen:
-    top: 34c76f
-    bottom: 3da1fd
-  storyUnseenPrivate:
-    top: 7cd636
-    bottom: 26b470
-  storySeen:
-    top: d8d8e1
-    bottom: d8d8e1
-chat:
-  defaultWallpaper: ff191826
-  animateMessageColors: false
-  message:
-    incoming:
-      bubble:
-        withWp:
-          bg: 363a4f
-          gradientBg: 363a4f
-          highlightedBg: 363a4f
-          stroke: 363a4f
-          reactionInactiveBg: 19709963
-          reactionInactiveFg: 709963
-          reactionActiveBg: 709963
-          reactionActiveFg: clear
-          reactionInactiveMediaPlaceholder: 33ffffff
-          reactionActiveMediaPlaceholder: 33ffffff
-        withoutWp:
-          bg: 363a4f
-          gradientBg: 363a4f
-          highlightedBg: 363a4f
-          stroke: 363a4f
-          reactionInactiveBg: 19709963
-          reactionInactiveFg: 709963
-          reactionActiveBg: 709963
-          reactionActiveFg: clear
-          reactionInactiveMediaPlaceholder: 33ffffff
-          reactionActiveMediaPlaceholder: 33ffffff
-      primaryText: cad3f5
-      secondaryText: 7fcad3f5
-      linkText: a6da95
-      linkHighlight: 7fa6da95
-      scam: ed8796
-      textHighlight: f5a97f
-      accentText: 709963
-      accentControl: 709963
-      mediaActiveControl: 709963
-      mediaInactiveControl: 7fa6da95
-      mediaControlInnerBg: 363a4f
-      pendingActivity: 7fcad3f5
-      fileTitle: 709963
-      fileDescription: 7fcad3f5
-      fileDuration: 7fcad3f5
-      mediaPlaceholder: 24273a
-      polls:
-        radioButton: 5b6078
-        radioProgress: 709963
-        highlight: 1e709963
-        separator: 181926
-        bar: 709963
-        barIconForeground: cad3f5
-        barPositive: a6da95
-        barNegative: ed8796
-      actionButtonsBg:
-        withWp: 7f24273a
-        withoutWp: 7f24273a
-      actionButtonsStroke:
-        withWp: 266e738d
-        withoutWp: 266e738d
-      actionButtonsText:
-        withWp: cad3f5
-        withoutWp: cad3f5
-      textSelection: 33709963
-      textSelectionKnob: 709963
-    outgoing:
-      bubble:
-        withWp:
-          bg: a6da95
-          gradientBg: a6da95
-          highlightedBg: 8bba7e
-          stroke: clear
-          reactionInactiveBg: 1934a600
-          reactionInactiveFg: 34a600
-          reactionActiveBg: 34a600
-          reactionActiveFg: clear
-          reactionInactiveMediaPlaceholder: 33ffffff
-          reactionActiveMediaPlaceholder: 33ffffff
-        withoutWp:
-          bg: a6da95
-          gradientBg: a6da95
-          highlightedBg: 8bba7e
-          stroke: clear
-          reactionInactiveBg: 1934a600
-          reactionInactiveFg: 34a600
-          reactionActiveBg: 34a600
-          reactionActiveFg: clear
-          reactionInactiveMediaPlaceholder: 33ffffff
-          reactionActiveMediaPlaceholder: 33ffffff
-      primaryText: 000000
-      secondaryText: cc1b7700
-      linkText: 004bad
-      linkHighlight: 4c004bad
-      scam: ff3b30
-      textHighlight: f5a97f
-      accentText: 298e00
-      accentControl: 34a600
-      mediaActiveControl: 34a600
-      mediaInactiveControl: 7eb954
-      mediaControlInnerBg: clear
-      pendingActivity: cc1b7700
-      fileTitle: 339109
-      fileDescription: 5e983f
-      fileDuration: cc1b7700
-      mediaPlaceholder: 97ce84
-      polls:
-        radioButton: 7eb954
-        radioProgress: 34a600
-        highlight: 1e34a600
-        separator: 7eb954
-        bar: 34a600
-        barIconForeground: clear
-        barPositive: 34a600
-        barNegative: 34a600
-      actionButtonsBg:
-        withWp: 7f24273a
-        withoutWp: 7f24273a
-      actionButtonsStroke:
-        withWp: 266e738d
-        withoutWp: 266e738d
-      actionButtonsText:
-        withWp: cad3f5
-        withoutWp: cad3f5
-      textSelection: a4bd70
-      textSelectionKnob: 34a600
-    freeform:
-      withWp:
-        bg: 363a4f
-        gradientBg: 363a4f
-        highlightedBg: 363a4f
-        stroke: 363a4f
-        reactionInactiveBg: e5363a4f
-        reactionInactiveFg: cad3f5
-        reactionActiveBg: 8aadf4
-        reactionActiveFg: cad3f5
-        reactionInactiveMediaPlaceholder: 19181926
-        reactionActiveMediaPlaceholder: 19181926
-      withoutWp:
-        bg: 363a4f
-        gradientBg: 363a4f
-        highlightedBg: 363a4f
-        stroke: 363a4f
-        reactionInactiveBg: e5363a4f
-        reactionInactiveFg: cad3f5
-        reactionActiveBg: 8aadf4
-        reactionActiveFg: cad3f5
-        reactionInactiveMediaPlaceholder: 19181926
-        reactionActiveMediaPlaceholder: 19181926
-    infoPrimaryText: cad3f5
-    infoLinkText: a6da95
-    outgoingCheck: cc1b7700
-    mediaDateAndStatusBg: 4c181926
-    mediaDateAndStatusText: cad3f5
-    shareButtonBg:
-      withWp: 7f24273a
-      withoutWp: 7f24273a
-    shareButtonStroke:
-      withWp: 266e738d
-      withoutWp: 266e738d
-    shareButtonFg:
-      withWp: 939ab7
-      withoutWp: 939ab7
-    mediaOverlayControl:
-      bg: 99181926
-      fg: cad3f5
-    selectionControl:
-      bg: 709963
-      stroke: cad3f5
-      fg: cad3f5
-    deliveryFailed:
-      bg: ed8796
-      fg: cad3f5
-    mediaHighlightOverlay: 99cad3f5
-    stickerPlaceholder:
-      withWp: 7f363a4f
-      withoutWp: 7f363a4f
-    stickerPlaceholderShimmer:
-      withWp: 0ccad3f5
-      withoutWp: 0ccad3f5
-  serviceMessage:
-    components:
-      withDefaultWp:
-        bg: 24273a
-        primaryText: cad3f5
-        linkHighlight: 1ecad3f5
-        scam: ed8796
-        dateFillStatic: 9924273a
-        dateFillFloat: 3324273a
-      withCustomWp:
-        bg: 24273a
-        primaryText: cad3f5
-        linkHighlight: 1ecad3f5
-        scam: ed8796
-        dateFillStatic: 9924273a
-        dateFillFloat: 3324273a
-    unreadBarBg: 363a4f
-    unreadBarStroke: 363a4f
-    unreadBarText: cad3f5
-    dateText:
-      withWp: cad3f5
-      withoutWp: cad3f5
-  inputPanel:
-    panelBg: 363a4f
-    panelSeparator: 181926
-    panelControlAccent: 709963
-    panelControl: 7fcad3f5
-    panelControlDisabled: 7f8087a2
-    panelControlDestructive: ed8796
-    inputBg: 24273a
-    inputStroke: 24273a
-    inputPlaceholder: 66cad3f5
-    inputText: cad3f5
-    inputControl: 66cad3f5
-    actionControlBg: 709963
-    actionControlFg: 181926
-    primaryText: cad3f5
-    secondaryText: 7fcad3f5
-    mediaRecordDot: a6da95
-    mediaRecordControl:
-      button: 709963
-      micLevel: 33709963
-      activeIcon: cad3f5
-  inputMediaPanel:
-    panelSeparator: 363a4f
-    panelIcon: 7fcad3f5
-    panelHighlightedIconBg: 1fcad3f5
-    panelHighlightedIcon: accad3f5
-    panelContentVibrantOverlay: 7fcad3f5
-    panelContentControlVibrantOverlay: 4ccad3f5
-    panelContentControlVibrantSelection: 19cad3f5
-    panelContentControlOpaqueOverlay: 4ccad3f5
-    panelContentControlOpaqueSelection: 4ccad3f5
-    panelContentVibrantSearchOverlay: 8c999999
-    panelContentVibrantSearchOverlaySelected: 99666666
-    panelContentVibrantSearchOverlayHighlight: 05333333
-    panelContentOpaqueSearchOverlay: 8e8e93
-    panelContentOpaqueSearchOverlaySelected: 66000000
-    panelContentOpaqueSearchOverlayHighlight: 19000000
-    stickersBg: 24273a
-    stickersSectionText: 7fcad3f5
-    stickersSearchBg: 6e738d
-    stickersSearchPlaceholder: 6e738d
-    stickersSearchPrimary: cad3f5
-    stickersSearchControl: 6e738d
-    gifsBg: 24273a
-    bg: bf24273a
-  inputButtonPanel:
-    panelBg: 181926
-    panelSeparator: 363a4f
-    buttonBg: 494d64
-    buttonHighlight: 33ffffff
-    buttonStroke: 181926
-    buttonHighlightedBg: b2494d64
-    buttonHighlightedStroke: 181926
-    buttonText: cad3f5
-  historyNav:
-    bg: 363a4f
-    stroke: 181926
-    fg: 7fcad3f5
-    badgeBg: 709963
-    badgeStroke: 709963
-    badgeText: cad3f5
-actionSheet:
-  dim: 7f181926
-  bgType: dark
-  opaqueItemBg: 363a4f
-  itemBg: cc363a4f
-  opaqueItemHighlightedBg: 363a4f
-  itemHighlightedBg: 33363a4f
-  opaqueItemSeparator: 24273a
-  standardActionText: 709963
-  destructiveActionText: ed8796
-  disabledActionText: 7fcad3f5
-  primaryText: cad3f5
-  secondaryText: 7fcad3f5
-  controlAccent: 709963
-  inputBg: 24273a
-  inputHollowBg: 24273a
-  inputBorder: 24273a
-  inputPlaceholder: b8c0e0
-  inputText: cad3f5
-  inputClearButton: b8c0e0
-  checkContent: 181926
-contextMenu:
-  dim: 99181926
-  background: c6363a4f
-  itemSeparator: 26cad3f5
-  sectionSeparator: 33181926
-  itemBg: 00181926
-  itemHighlightedBg: 26cad3f5
-  primary: cad3f5
-  secondary: 7fcad3f5
-  destructive: ed8796
-notification:
-  bg: 363a4f
-  primaryText: cad3f5
-  expanded:
-    bgType: dark
-    navBar:
-      background: 363a4f
-      primaryText: cad3f5
-      control: a6da95
-      separator: 181926
-chart:
-  labels: 99a5adcb
-  helperLines: 598087a2
-  strongLines: 598087a2
-  barStrongLines: 72a5adcb
-  detailsText: cad3f5
-  detailsArrow: cad3f5
-  detailsView: 1e2030
-  rangeViewFrame: 494d64
-  rangeViewMarker: cad3f5
+intro_statusBar: white
+intro_primaryText: #CAD3F5
+intro_accentText: #709963
+intro_disabledText: #575B55
+intro_startButton: #A6DA95
+intro_dot: #B8C0E0
+passcode_bg_top: #5B6078
+passcode_bg_bottom: #24273A
+passcode_button: #363A4F
+root_statusBar: white
+root_tabBar_background: #363A4F
+root_tabBar_separator: #181926
+root_tabBar_icon: #8087A2
+root_tabBar_selectedIcon: #709963
+root_tabBar_text: #8087A2
+root_tabBar_selectedText: #709963
+root_tabBar_badgeBackground: #ED8796
+root_tabBar_badgeStroke: #ED8796
+root_tabBar_badgeText: #181926
+root_navBar_button: #709963
+root_navBar_disabledButton: #575B55
+root_navBar_primaryText: #CAD3F5
+root_navBar_secondaryText: #B8C0E0
+root_navBar_control: #B8C0E0
+root_navBar_accentText: #709963
+root_navBar_background: #363A4F
+root_navBar_opaqueBackground: #363A4F
+root_navBar_separator: #181926
+root_navBar_badgeFill: #ED8796
+root_navBar_badgeStroke: #ED8796
+root_navBar_badgeText: #181926
+root_navBar_segmentedBg: #24273A
+root_navBar_segmentedFg: #363A4F
+root_navBar_segmentedText: #CAD3F5
+root_navBar_segmentedDivider: #CAD3F57F
+root_searchBar_background: #363A4F
+root_searchBar_accent: #709963
+root_searchBar_inputFill: #24273A
+root_searchBar_inputText: #CAD3F5
+root_searchBar_inputPlaceholderText: #B8C0E0
+root_searchBar_inputIcon: #B8C0E0
+root_searchBar_inputClearButton: #B8C0E0
+root_searchBar_separator: #24273A
+root_keyboard: dark
+list_blocksBg: #24273A
+list_plainBg: #24273A
+list_primaryText: #CAD3F5
+list_secondaryText: #CAD3F57F
+list_disabledText: #CAD3F57F
+list_accent: #709963
+list_highlighted: #A6DA95
+list_destructive: #ED8796
+list_placeholderText: #CAD3F57F
+list_itemBlocksBg: #363A4F
+list_itemHighlightedBg: #363A4F
+list_blocksSeparator: #181926
+list_plainSeparator: #181926
+list_disclosureArrow: #CAD3F57F
+list_sectionHeaderText: #5B6078
+list_freeText: #5B6078
+list_freeTextError: #ED8796
+list_freeTextSuccess: #A6DA95
+list_freeMonoIcon: #5B6078
+list_switch_frame: #CAD3F57F
+list_switch_handle: #181926
+list_switch_content: #A6DA95
+list_switch_positive: #A6DA95
+list_switch_negative: #ED8796
+list_disclosureActions_neutral1_bg: #A6DA95
+list_disclosureActions_neutral1_fg: #FFFFFF
+list_disclosureActions_neutral2_bg: #F5A97F
+list_disclosureActions_neutral2_fg: #FFFFFF
+list_disclosureActions_destructive_bg: #ED8796
+list_disclosureActions_destructive_fg: #FFFFFF
+list_disclosureActions_constructive_bg: #A6DA95
+list_disclosureActions_constructive_fg: #FFFFFF
+list_disclosureActions_accent_bg: #709963
+list_disclosureActions_accent_fg: #FFFFFF
+list_disclosureActions_warning_bg: #F5A97F
+list_disclosureActions_warning_fg: #FFFFFF
+list_disclosureActions_inactive_bg: #24273A
+list_disclosureActions_inactive_fg: #CAD3F5
+list_check_bg: #709963
+list_check_stroke: #CAD3F57F
+list_check_fg: #181926
+list_controlSecondary: #CAD3F57F
+list_freeInputField_bg: #363A4F
+list_freeInputField_stroke: #363A4F
+list_freeInputField_placeholder: #CAD3F57F
+list_freeInputField_primary: #CAD3F5
+list_freeInputField_control: #CAD3F57F
+list_mediaPlaceholder: #24273A
+list_scrollIndicator: #CAD3F57F
+list_pageIndicatorInactive: #CAD3F566
+list_inputClearButton: #B8C0E0
+list_itemBarChart_color1: #709963
+list_itemBarChart_color2: #CAD3F57F
+list_itemBarChart_color3: #24273A
+list_itemInputField_bg: #1E2030
+list_itemInputField_stroke: #1E2030
+list_itemInputField_placeholder: #8087A2
+list_itemInputField_primary: #CAD3F5
+list_itemInputField_control: #8087A2
+chatList_bg: #24273A
+chatList_itemSeparator: #181926
+chatList_itemBg: #24273A
+chatList_pinnedItemBg: #363A4F
+chatList_itemHighlightedBg: #363A4F
+chatList_pinnedItemHighlightedBg: #363A4F
+chatList_itemSelectedBg: #363A4F
+chatList_title: #CAD3F5
+chatList_secretTitle: #A6DA95
+chatList_dateText: #CAD3F57F
+chatList_authorName: #CAD3F5
+chatList_messageText: #CAD3F57F
+chatList_messageHighlightedText: #CAD3F5
+chatList_messageDraftText: #ED8796
+chatList_checkmark: #A6DA95
+chatList_pendingIndicator: #CAD3F566
+chatList_failedFill: #ED8796
+chatList_failedFg: #CAD3F5
+chatList_muteIcon: #CAD3F566
+chatList_unreadBadgeActiveBg: #709963
+chatList_unreadBadgeActiveText: #181926
+chatList_unreadBadgeInactiveBg: #CAD3F566
+chatList_unreadBadgeInactiveText: #24273A
+chatList_reactionBadgeActiveBg: #ED8796
+chatList_pinnedBadge: #CAD3F57F
+chatList_pinnedSearchBar: #24273A
+chatList_regularSearchBar: #363A4F
+chatList_sectionHeaderBg: #363A4F
+chatList_sectionHeaderText: #CAD3F57F
+chatList_verifiedIconBg: #A6DA95
+chatList_verifiedIconFg: #CAD3F5
+chatList_secretIcon: #A6DA95
+chatList_pinnedArchiveAvatar_background_top: #8AADF4
+chatList_pinnedArchiveAvatar_background_bottom: #8AADF4
+chatList_pinnedArchiveAvatar_foreground: #CAD3F5
+chatList_unpinnedArchiveAvatar_background_top: #5B6078
+chatList_unpinnedArchiveAvatar_background_bottom: #5B6078
+chatList_unpinnedArchiveAvatar_foreground: #24273A
+chatList_onlineDot: #A6DA95
+chatList_storyUnseen_top: #34C76F
+chatList_storyUnseen_bottom: #3DA1FD
+chatList_storyUnseenPrivate_top: #7CD636
+chatList_storyUnseenPrivate_bottom: #26B470
+chatList_storySeen_top: #D8D8E1
+chatList_storySeen_bottom: #D8D8E1
+chat_animateMessageColors: false
+chat_message_incoming_bubble_withWp_bg: #363A4F
+chat_message_incoming_bubble_withWp_gradientBg: #363A4F
+chat_message_incoming_bubble_withWp_highlightedBg: #363A4F
+chat_message_incoming_bubble_withWp_stroke: #363A4F
+chat_message_incoming_bubble_withWp_reactionInactiveBg: #70996319
+chat_message_incoming_bubble_withWp_reactionInactiveFg: #709963
+chat_message_incoming_bubble_withWp_reactionActiveBg: #709963
+chat_message_incoming_bubble_withWp_reactionActiveFg: clear
+chat_message_incoming_bubble_withWp_reactionInactiveMediaPlaceholder: #FFFFFF33
+chat_message_incoming_bubble_withWp_reactionActiveMediaPlaceholder: #FFFFFF33
+chat_message_incoming_bubble_withoutWp_bg: #363A4F
+chat_message_incoming_bubble_withoutWp_gradientBg: #363A4F
+chat_message_incoming_bubble_withoutWp_highlightedBg: #363A4F
+chat_message_incoming_bubble_withoutWp_stroke: #363A4F
+chat_message_incoming_bubble_withoutWp_reactionInactiveBg: #70996319
+chat_message_incoming_bubble_withoutWp_reactionInactiveFg: #709963
+chat_message_incoming_bubble_withoutWp_reactionActiveBg: #709963
+chat_message_incoming_bubble_withoutWp_reactionActiveFg: clear
+chat_message_incoming_bubble_withoutWp_reactionInactiveMediaPlaceholder: #FFFFFF33
+chat_message_incoming_bubble_withoutWp_reactionActiveMediaPlaceholder: #FFFFFF33
+chat_message_incoming_primaryText: #CAD3F5
+chat_message_incoming_secondaryText: #CAD3F57F
+chat_message_incoming_linkText: #A6DA95
+chat_message_incoming_linkHighlight: #A6DA957F
+chat_message_incoming_scam: #ED8796
+chat_message_incoming_textHighlight: #F5A97F
+chat_message_incoming_accentText: #709963
+chat_message_incoming_accentControl: #709963
+chat_message_incoming_mediaActiveControl: #709963
+chat_message_incoming_mediaInactiveControl: #A6DA957F
+chat_message_incoming_mediaControlInnerBg: #363A4F
+chat_message_incoming_pendingActivity: #CAD3F57F
+chat_message_incoming_fileTitle: #709963
+chat_message_incoming_fileDescription: #CAD3F57F
+chat_message_incoming_fileDuration: #CAD3F57F
+chat_message_incoming_mediaPlaceholder: #24273A
+chat_message_incoming_polls_radioButton: #5B6078
+chat_message_incoming_polls_radioProgress: #709963
+chat_message_incoming_polls_highlight: #7099631E
+chat_message_incoming_polls_separator: #181926
+chat_message_incoming_polls_bar: #709963
+chat_message_incoming_polls_barIconForeground: #CAD3F5
+chat_message_incoming_polls_barPositive: #A6DA95
+chat_message_incoming_polls_barNegative: #ED8796
+chat_message_incoming_actionButtonsBg_withWp: #24273A7F
+chat_message_incoming_actionButtonsBg_withoutWp: #24273A7F
+chat_message_incoming_actionButtonsStroke_withWp: #6E738D26
+chat_message_incoming_actionButtonsStroke_withoutWp: #6E738D26
+chat_message_incoming_actionButtonsText_withWp: #CAD3F5
+chat_message_incoming_actionButtonsText_withoutWp: #CAD3F5
+chat_message_incoming_textSelection: #70996333
+chat_message_incoming_textSelectionKnob: #709963
+chat_message_outgoing_bubble_withWp_bg: #A6DA95
+chat_message_outgoing_bubble_withWp_gradientBg: #A6DA95
+chat_message_outgoing_bubble_withWp_highlightedBg: #8BBA7E
+chat_message_outgoing_bubble_withWp_stroke: clear
+chat_message_outgoing_bubble_withWp_reactionInactiveBg: #34A60019
+chat_message_outgoing_bubble_withWp_reactionInactiveFg: #34A600
+chat_message_outgoing_bubble_withWp_reactionActiveBg: #34A600
+chat_message_outgoing_bubble_withWp_reactionActiveFg: clear
+chat_message_outgoing_bubble_withWp_reactionInactiveMediaPlaceholder: #FFFFFF33
+chat_message_outgoing_bubble_withWp_reactionActiveMediaPlaceholder: #FFFFFF33
+chat_message_outgoing_bubble_withoutWp_bg: #A6DA95
+chat_message_outgoing_bubble_withoutWp_gradientBg: #A6DA95
+chat_message_outgoing_bubble_withoutWp_highlightedBg: #8BBA7E
+chat_message_outgoing_bubble_withoutWp_stroke: clear
+chat_message_outgoing_bubble_withoutWp_reactionInactiveBg: #34A60019
+chat_message_outgoing_bubble_withoutWp_reactionInactiveFg: #34A600
+chat_message_outgoing_bubble_withoutWp_reactionActiveBg: #34A600
+chat_message_outgoing_bubble_withoutWp_reactionActiveFg: clear
+chat_message_outgoing_bubble_withoutWp_reactionInactiveMediaPlaceholder: #FFFFFF33
+chat_message_outgoing_bubble_withoutWp_reactionActiveMediaPlaceholder: #FFFFFF33
+chat_message_outgoing_primaryText: #000000
+chat_message_outgoing_secondaryText: #1B7700CC
+chat_message_outgoing_linkText: #004BAD
+chat_message_outgoing_linkHighlight: #004BAD4C
+chat_message_outgoing_scam: #FF3B30
+chat_message_outgoing_textHighlight: #F5A97F
+chat_message_outgoing_accentText: #298E00
+chat_message_outgoing_accentControl: #34A600
+chat_message_outgoing_mediaActiveControl: #34A600
+chat_message_outgoing_mediaInactiveControl: #7EB954
+chat_message_outgoing_mediaControlInnerBg: clear
+chat_message_outgoing_pendingActivity: #1B7700CC
+chat_message_outgoing_fileTitle: #339109
+chat_message_outgoing_fileDescription: #5E983F
+chat_message_outgoing_fileDuration: #1B7700CC
+chat_message_outgoing_mediaPlaceholder: #97CE84
+chat_message_outgoing_polls_radioButton: #7EB954
+chat_message_outgoing_polls_radioProgress: #34A600
+chat_message_outgoing_polls_highlight: #34A6001E
+chat_message_outgoing_polls_separator: #7EB954
+chat_message_outgoing_polls_bar: #34A600
+chat_message_outgoing_polls_barIconForeground: clear
+chat_message_outgoing_polls_barPositive: #34A600
+chat_message_outgoing_polls_barNegative: #34A600
+chat_message_outgoing_actionButtonsBg_withWp: #24273A7F
+chat_message_outgoing_actionButtonsBg_withoutWp: #24273A7F
+chat_message_outgoing_actionButtonsStroke_withWp: #6E738D26
+chat_message_outgoing_actionButtonsStroke_withoutWp: #6E738D26
+chat_message_outgoing_actionButtonsText_withWp: #CAD3F5
+chat_message_outgoing_actionButtonsText_withoutWp: #CAD3F5
+chat_message_outgoing_textSelection: #A4BD70
+chat_message_outgoing_textSelectionKnob: #34A600
+chat_message_freeform_withWp_bg: #363A4F
+chat_message_freeform_withWp_gradientBg: #363A4F
+chat_message_freeform_withWp_highlightedBg: #363A4F
+chat_message_freeform_withWp_stroke: #363A4F
+chat_message_freeform_withWp_reactionInactiveBg: #363A4FE5
+chat_message_freeform_withWp_reactionInactiveFg: #CAD3F5
+chat_message_freeform_withWp_reactionActiveBg: #8AADF4
+chat_message_freeform_withWp_reactionActiveFg: #CAD3F5
+chat_message_freeform_withWp_reactionInactiveMediaPlaceholder: #18192619
+chat_message_freeform_withWp_reactionActiveMediaPlaceholder: #18192619
+chat_message_freeform_withoutWp_bg: #363A4F
+chat_message_freeform_withoutWp_gradientBg: #363A4F
+chat_message_freeform_withoutWp_highlightedBg: #363A4F
+chat_message_freeform_withoutWp_stroke: #363A4F
+chat_message_freeform_withoutWp_reactionInactiveBg: #363A4FE5
+chat_message_freeform_withoutWp_reactionInactiveFg: #CAD3F5
+chat_message_freeform_withoutWp_reactionActiveBg: #8AADF4
+chat_message_freeform_withoutWp_reactionActiveFg: #CAD3F5
+chat_message_freeform_withoutWp_reactionInactiveMediaPlaceholder: #18192619
+chat_message_freeform_withoutWp_reactionActiveMediaPlaceholder: #18192619
+chat_message_infoPrimaryText: #CAD3F5
+chat_message_infoLinkText: #A6DA95
+chat_message_outgoingCheck: #1B7700CC
+chat_message_mediaDateAndStatusBg: #1819264C
+chat_message_mediaDateAndStatusText: #CAD3F5
+chat_message_shareButtonBg_withWp: #24273A7F
+chat_message_shareButtonBg_withoutWp: #24273A7F
+chat_message_shareButtonStroke_withWp: #6E738D26
+chat_message_shareButtonStroke_withoutWp: #6E738D26
+chat_message_shareButtonFg_withWp: #939AB7
+chat_message_shareButtonFg_withoutWp: #939AB7
+chat_message_mediaOverlayControl_bg: #18192699
+chat_message_mediaOverlayControl_fg: #CAD3F5
+chat_message_selectionControl_bg: #709963
+chat_message_selectionControl_stroke: #CAD3F5
+chat_message_selectionControl_fg: #CAD3F5
+chat_message_deliveryFailed_bg: #ED8796
+chat_message_deliveryFailed_fg: #CAD3F5
+chat_message_mediaHighlightOverlay: #CAD3F599
+chat_message_stickerPlaceholder_withWp: #363A4F7F
+chat_message_stickerPlaceholder_withoutWp: #363A4F7F
+chat_message_stickerPlaceholderShimmer_withWp: #CAD3F50C
+chat_message_stickerPlaceholderShimmer_withoutWp: #CAD3F50C
+chat_serviceMessage_components_withDefaultWp_bg: #24273A
+chat_serviceMessage_components_withDefaultWp_primaryText: #CAD3F5
+chat_serviceMessage_components_withDefaultWp_linkHighlight: #CAD3F51E
+chat_serviceMessage_components_withDefaultWp_scam: #ED8796
+chat_serviceMessage_components_withDefaultWp_dateFillStatic: #24273A99
+chat_serviceMessage_components_withDefaultWp_dateFillFloat: #24273A33
+chat_serviceMessage_components_withCustomWp_bg: #24273A
+chat_serviceMessage_components_withCustomWp_primaryText: #CAD3F5
+chat_serviceMessage_components_withCustomWp_linkHighlight: #CAD3F51E
+chat_serviceMessage_components_withCustomWp_scam: #ED8796
+chat_serviceMessage_components_withCustomWp_dateFillStatic: #24273A99
+chat_serviceMessage_components_withCustomWp_dateFillFloat: #24273A33
+chat_serviceMessage_unreadBarBg: #363A4F
+chat_serviceMessage_unreadBarStroke: #363A4F
+chat_serviceMessage_unreadBarText: #CAD3F5
+chat_serviceMessage_dateText_withWp: #CAD3F5
+chat_serviceMessage_dateText_withoutWp: #CAD3F5
+chat_inputPanel_panelBg: #363A4F
+chat_inputPanel_panelSeparator: #181926
+chat_inputPanel_panelControlAccent: #709963
+chat_inputPanel_panelControl: #CAD3F57F
+chat_inputPanel_panelControlDisabled: #8087A27F
+chat_inputPanel_panelControlDestructive: #ED8796
+chat_inputPanel_inputBg: #24273A
+chat_inputPanel_inputStroke: #24273A
+chat_inputPanel_inputPlaceholder: #CAD3F566
+chat_inputPanel_inputText: #CAD3F5
+chat_inputPanel_inputControl: #CAD3F566
+chat_inputPanel_actionControlBg: #709963
+chat_inputPanel_actionControlFg: #181926
+chat_inputPanel_primaryText: #CAD3F5
+chat_inputPanel_secondaryText: #CAD3F57F
+chat_inputPanel_mediaRecordDot: #A6DA95
+chat_inputPanel_mediaRecordControl_button: #709963
+chat_inputPanel_mediaRecordControl_micLevel: #70996333
+chat_inputPanel_mediaRecordControl_activeIcon: #CAD3F5
+chat_inputMediaPanel_panelSeparator: #363A4F
+chat_inputMediaPanel_panelIcon: #CAD3F57F
+chat_inputMediaPanel_panelHighlightedIconBg: #CAD3F51F
+chat_inputMediaPanel_panelHighlightedIcon: #CAD3F5AC
+chat_inputMediaPanel_panelContentVibrantOverlay: #CAD3F57F
+chat_inputMediaPanel_panelContentControlVibrantOverlay: #CAD3F54C
+chat_inputMediaPanel_panelContentControlVibrantSelection: #CAD3F519
+chat_inputMediaPanel_panelContentControlOpaqueOverlay: #CAD3F54C
+chat_inputMediaPanel_panelContentControlOpaqueSelection: #CAD3F54C
+chat_inputMediaPanel_panelContentVibrantSearchOverlay: #9999998C
+chat_inputMediaPanel_panelContentVibrantSearchOverlaySelected: #66666699
+chat_inputMediaPanel_panelContentVibrantSearchOverlayHighlight: #33333305
+chat_inputMediaPanel_panelContentOpaqueSearchOverlay: #8E8E93
+chat_inputMediaPanel_panelContentOpaqueSearchOverlaySelected: #00000066
+chat_inputMediaPanel_panelContentOpaqueSearchOverlayHighlight: #00000019
+chat_inputMediaPanel_stickersBg: #24273A
+chat_inputMediaPanel_stickersSectionText: #CAD3F57F
+chat_inputMediaPanel_stickersSearchBg: #6E738D
+chat_inputMediaPanel_stickersSearchPlaceholder: #6E738D
+chat_inputMediaPanel_stickersSearchPrimary: #CAD3F5
+chat_inputMediaPanel_stickersSearchControl: #6E738D
+chat_inputMediaPanel_gifsBg: #24273A
+chat_inputMediaPanel_bg: #24273ABF
+chat_inputButtonPanel_panelBg: #181926
+chat_inputButtonPanel_panelSeparator: #363A4F
+chat_inputButtonPanel_buttonBg: #494D64
+chat_inputButtonPanel_buttonHighlight: #FFFFFF33
+chat_inputButtonPanel_buttonStroke: #181926
+chat_inputButtonPanel_buttonHighlightedBg: #494D64B2
+chat_inputButtonPanel_buttonHighlightedStroke: #181926
+chat_inputButtonPanel_buttonText: #CAD3F5
+chat_historyNav_bg: #363A4F
+chat_historyNav_stroke: #181926
+chat_historyNav_fg: #CAD3F57F
+chat_historyNav_badgeBg: #709963
+chat_historyNav_badgeStroke: #709963
+chat_historyNav_badgeText: #CAD3F5
+wallpaper: #191826
+actionSheet_dim: #1819267F
+actionSheet_bgType: dark
+actionSheet_opaqueItemBg: #363A4F
+actionSheet_itemBg: #363A4FCC
+actionSheet_opaqueItemHighlightedBg: #363A4F
+actionSheet_itemHighlightedBg: #363A4F33
+actionSheet_opaqueItemSeparator: #24273A
+actionSheet_standardActionText: #709963
+actionSheet_destructiveActionText: #ED8796
+actionSheet_disabledActionText: #CAD3F57F
+actionSheet_primaryText: #CAD3F5
+actionSheet_secondaryText: #CAD3F57F
+actionSheet_controlAccent: #709963
+actionSheet_inputBg: #24273A
+actionSheet_inputHollowBg: #24273A
+actionSheet_inputBorder: #24273A
+actionSheet_inputPlaceholder: #B8C0E0
+actionSheet_inputText: #CAD3F5
+actionSheet_inputClearButton: #B8C0E0
+actionSheet_checkContent: #181926
+contextMenu_dim: #18192699
+contextMenu_background: #363A4FC6
+contextMenu_itemSeparator: #CAD3F526
+contextMenu_sectionSeparator: #18192633
+contextMenu_itemBg: #18192600
+contextMenu_itemHighlightedBg: #CAD3F526
+contextMenu_primary: #CAD3F5
+contextMenu_secondary: #CAD3F57F
+contextMenu_destructive: #ED8796
+notification_bg: #363A4F
+notification_primaryText: #CAD3F5
+notification_expanded_bgType: dark
+notification_expanded_navBar_background: #363A4F
+notification_expanded_navBar_primaryText: #CAD3F5
+notification_expanded_navBar_control: #A6DA95
+notification_expanded_navBar_separator: #181926
+chart_labels: #A5ADCB99
+chart_helperLines: #8087A259
+chart_strongLines: #8087A259
+chart_barStrongLines: #A5ADCB72
+chart_detailsText: #CAD3F5
+chart_detailsArrow: #CAD3F5
+chart_detailsView: #1E2030
+chart_rangeViewFrame: #494D64
+chart_rangeViewMarker: #CAD3F5
